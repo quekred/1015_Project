@@ -39,7 +39,15 @@ In the context of reducing the workload of radiologists, optimizing for high sen
 
 The metrics (TPR and TNR) of each model can be found in our python notebook. As of now, the specificity of our model is still low which means that radiologists still have to look through the bulk of X-rays. However, once we increase the number of training data, we believe that we can more accurately predict which patient has Pneumonia to achieve our goal. Ultimately, our model still manages to achieve our goal to filter out X-rays that radiologists do not need to look through which reduced their workload. 
 
+Individual Contributions:
+Dexter: Data Visualization, Video Production
+Jared: Neural Networks, Data Extraction
+Edison: Neural Networks, Data Visualization
 
-
-
-
+References:
+Goh, C. X. Y., & Ho, F. C. H. (2023). _The growing problem of radiologist shortages: perspectives from Singapore_. Korean Journal of Radiology, 24(12), 1176. https://doi.org/10.3348%2Fkjr.2023.0966
+Mooney, P. (2018). _Chest X-Ray Images (Pneumonia)_ Kaggle. https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
+_Pneumonia_. (n.d.). St Vincent’s Hospital Lung Health. https://www.svhlunghealth.com.au/conditions/pneumonia 
+_Principal causes of death_. (n.d.). Ministry of Health. https://www.moh.gov.sg/resources-statistics/singapore-health-facts/principal-causes-of-death 
+Shah, S. (2022, March 15). _Convolutional Neural Network: An overview_. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2022/01/convolutional-neural-network-an-overview/ 
+Taylor-Phillips, S., & Stinton, C. (2019). _Fatigue in radiology: a fertile area for future research_. The British journal of radiology, 92(1099), 20190043. https://doi.org/10.1259%2Fbjr.20190043
