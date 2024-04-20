@@ -12,7 +12,7 @@ SC1015 Lab FDAA Group 4**
 
 Our Dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-Our Aim: To create a model that acts as the first layer when screening patients for Pneumonia. Only when the model predicts that the patient has Pneumonia, then the radiologists will take a look at the X-rays to confirm whether they have Pneumonia or not. This will greatly reduce the amount of X-rays that each radiologist would have to look through and can reduce the number of errors they make. Research has shown that after...
+Our Aim: To create a model that acts as the first layer when screening patients for Pneumonia. Only when the model predicts that the patient has Pneumonia, then the radiologists will take a look at the X-rays to confirm whether they have Pneumonia or not. This will greatly reduce the amount of X-rays that each radiologist would have to look through and can reduce the number of errors they make. Research has shown that after a certain number of hours, the accuracy of radiologists would decrease so it is crucial that we can reduce the number of X-rays they need to read through. 
 
 **2. Data Preparation and Cleaning:**
 
