@@ -45,6 +45,7 @@ Jared: Neural Networks, Data Extraction
 Edison: Neural Networks, Data Visualization
 
 References:
+
 https://doi.org/10.3348%2Fkjr.2023.0966
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 https://www.svhlunghealth.com.au/conditions/pneumonia 
