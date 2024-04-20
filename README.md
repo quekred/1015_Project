@@ -3,7 +3,7 @@ SC1015 Lab FDAA Group 4**
 
 **Group Members:**
 1. Quek Jared (U2321219D)
-2. Teo Wen Jie Dexter ()
+2. Teo Wen Jie Dexter (U2322933C)
 3. Edison Lim Wei Xuan ()
 
 **Title:** Predicting Pneumonia using Convolutional Neural Network
