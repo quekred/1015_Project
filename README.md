@@ -39,7 +39,7 @@ In the context of reducing the workload of radiologists, optimizing for high sen
 
 The metrics (TPR and TNR) of each model can be found in our python notebook. As of now, the specificity of our model is still low which means that radiologists still have to look through the bulk of X-rays. However, once we increase the number of training data, we believe that we can more accurately predict which patient has Pneumonia to achieve our goal. Ultimately, our model still manages to achieve our goal to filter out X-rays that radiologists do not need to look through which reduced their workload. 
 
-Individual Contributions:
+**Individual Contributions:**
 
 Dexter: Data Visualization, Video Production
 
@@ -47,7 +47,7 @@ Jared: Neural Networks, Data Extraction
 
 Edison: Neural Networks, Data Visualization
 
-References:
+**References:**
 
 https://doi.org/10.3348%2Fkjr.2023.0966
 
