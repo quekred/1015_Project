@@ -45,10 +45,9 @@ Jared: Neural Networks, Data Extraction
 Edison: Neural Networks, Data Visualization
 
 References:
-
-Goh, C. X. Y., & Ho, F. C. H. (2023). _The growing problem of radiologist shortages: perspectives from Singapore_. Korean Journal of Radiology, 24(12), 1176. https://doi.org/10.3348%2Fkjr.2023.0966
-Mooney, P. (2018). _Chest X-Ray Images (Pneumonia)_ Kaggle. https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
-_Pneumonia_. (n.d.). St Vincent’s Hospital Lung Health. https://www.svhlunghealth.com.au/conditions/pneumonia 
-_Principal causes of death_. (n.d.). Ministry of Health. https://www.moh.gov.sg/resources-statistics/singapore-health-facts/principal-causes-of-death 
-Shah, S. (2022, March 15). _Convolutional Neural Network: An overview_. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2022/01/convolutional-neural-network-an-overview/ 
-Taylor-Phillips, S., & Stinton, C. (2019). _Fatigue in radiology: a fertile area for future research_. The British journal of radiology, 92(1099), 20190043. https://doi.org/10.1259%2Fbjr.20190043
+https://doi.org/10.3348%2Fkjr.2023.0966
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
+https://www.svhlunghealth.com.au/conditions/pneumonia 
+https://www.moh.gov.sg/resources-statistics/singapore-health-facts/principal-causes-of-death 
+https://www.analyticsvidhya.com/blog/2022/01/convolutional-neural-network-an-overview/ 
+https://doi.org/10.1259%2Fbjr.20190043
