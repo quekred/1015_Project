@@ -35,6 +35,10 @@ Since our goal is to predict which patient has Pneumonia, we want the model to h
 
 In the context of reducing the workload of radiologists, optimizing for high sensitivity while maintaining reasonable specificity is often desirable to ensure that pneumonia cases are not missed while minimizing unnecessary follow-up for non-pneumonia cases. We have decided that it is ultimately more suitable to prioritise a high sensitivity in our model as we do not want to miss any cases which is the main point since our model is the first check to see whether patients have Pneumonia.
 
+**5. Data driven insights and Conclusion:**
+
+The metrics (TPR and TNR) of each model can be found in our python notebook. As of now, the specificity of our model is still low which means that radiologists still have to look through the bulk of X-rays. However, once we increase the number of training data, we believe that we can more accurately predict which patient has Pneumonia to achieve our goal. Ultimately, our model still manages to achieve our goal to filter out X-rays that radiologists do not need to look through which reduced their workload. 
+
 
 
 
