@@ -45,6 +45,7 @@ Jared: Neural Networks, Data Extraction
 Edison: Neural Networks, Data Visualization
 
 References:
+
 Goh, C. X. Y., & Ho, F. C. H. (2023). _The growing problem of radiologist shortages: perspectives from Singapore_. Korean Journal of Radiology, 24(12), 1176. https://doi.org/10.3348%2Fkjr.2023.0966
 Mooney, P. (2018). _Chest X-Ray Images (Pneumonia)_ Kaggle. https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 _Pneumonia_. (n.d.). St Vincent’s Hospital Lung Health. https://www.svhlunghealth.com.au/conditions/pneumonia 
