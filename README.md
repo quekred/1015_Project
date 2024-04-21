@@ -22,8 +22,14 @@ Our Aim: To create a model that acts as the first layer when screening patients 
     - We also performed some changed to the image data which we thought might affect the robustness of our model (Augmented our image data to ensure that there is balanced data in our training data).
 
 **3. Training our Model:**
+We decided to train 4 types of models:
 
-We decided to train 4 different models to see which model would produce the best metrics. We trained 2 models for 15 epochs (one augmented, one non-augmented) and trained another 2 models with an early stopping callback, looking at validation accuracy. (one augmented, one non-augmented)
+
+    - Model with non-augmented data with 15 epochs
+    - Model with augmented data with 15 epochs
+    - Model with non-augmented data with early stopping callback
+    - Model with augmented data early stopping callback
+
 
 **4. Deciding which model is best for our goal:**
 
